@@ -112,8 +112,8 @@
         const eltProto = Object.getPrototypeOf(elt);
         let parameters = extend({
             year: 2023,
-            month: 6,
-            day: 28,
+            month: 7,
+            day: 2,
             hours: 9,
             minutes: 0,
             seconds: 0,
